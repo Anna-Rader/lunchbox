@@ -83,7 +83,7 @@ var copyrightOptions = {
 
 // app load defaults
 var currentCrop = 'twitter'; // default crop size
-var currentLogo = 'WyPublicRadio'; // default logo slug
+var currentLogo = 'WYPublicRadio'; // default logo slug
 var currentLogoColor = 'white'; // default logo color
 var currentTextColor = 'white'; // default text color
 var defaultImage = '../img/test-kitten.jpg'; // path to image to load as test image
